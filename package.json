@@ -1,0 +1,17 @@
+{
+  "name": "spiralscrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.5.0",
+    "regulex": "^0.0.5",
+    "valid-url": "^1.0.9"
+  }
+}
